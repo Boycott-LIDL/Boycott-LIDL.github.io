@@ -1,1 +1,3 @@
-# Boycott-LIDL.github.io
+# Lidl lohnt sich nicht
+
+![logo](./logo.svg)
