@@ -1,3 +1,3 @@
 # Lidl lohnt sich nicht
 
-![logo](./logo.svg)
+<img src="./logo.svg" style="height: 15em"/>
